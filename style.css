@@ -10,3 +10,12 @@ body {
   width: 800px;
   margin: 50px auto;
 }
+h1 {
+  margin-bottom: 50px;
+}
+p {
+  line-height: 1.5em;
+}
+li {
+  margin-left: 60px;
+}
