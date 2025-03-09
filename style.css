@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-size: 16;
+  font-family: serif;
+}
+.container {
+  width: 800px;
+  margin: 50px auto;
+}
